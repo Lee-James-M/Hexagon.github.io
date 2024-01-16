@@ -1,11 +1,11 @@
 {
-    "name": "first",
-    "short_name": "first",
+    "name": "eclipse",
+    "short_name": "eclipse",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "An application to help customers walk through the life-cycle of their CMM's and assets.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
